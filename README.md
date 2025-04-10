@@ -102,7 +102,8 @@ while True:
 ~~~
 
 ## Output
-![Screenshot (6)](https://github.com/user-attachments/assets/60b128a2-6442-4cd6-8c0a-aff5859597b2)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/39a0c368-2e10-4b51-b8d8-bb8db388a641)
 
 ## Result:
 
